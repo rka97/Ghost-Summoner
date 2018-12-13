@@ -1,5 +1,5 @@
 # Ghost-Summoner
-Multiplayer PacMan-like game written in pure x86 assembly. Course Project for Microprocessors 1.
+Multiplayer PacMan-like game written in pure x86 assembly. Team Course Project for Microprocessors 1.
 
 # How to run
 Clone this repo, mount the repo's folder in Dosbox as C:/ and compile the assembly files with MASM.
