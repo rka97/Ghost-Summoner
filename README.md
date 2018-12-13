@@ -14,4 +14,4 @@ The commands and price for every power:
 | Breathe Fire | 30 gems |        /        |       F       |
 | Summon Ghost | 50 gems |        .        |       Q       |
 
-# Screenshot
+![screenshot](media/screen.png)
